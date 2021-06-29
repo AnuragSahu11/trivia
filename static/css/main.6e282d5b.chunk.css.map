@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,KACE,iBACF,CAIA,mBAFE,UAKF,CAHA,MAEE,gBACF","file":"main.6e282d5b.chunk.css","sourcesContent":[".App {\r\n  text-align: center;\r\n}\r\n.ans__button {\r\n  margin: 1vw;\r\n}\r\n.text {\r\n  margin: 1vw;\r\n  textalign: center;\r\n}\r\n"]}

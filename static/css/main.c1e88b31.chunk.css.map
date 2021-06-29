@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,KACI,iBACJ,CAIA,mBAFI,UAKJ,CAHA,MAEI,gBACJ","file":"main.c1e88b31.chunk.css","sourcesContent":[".App{\r\n    text-align: center;\r\n}\r\n.ans__button{\r\n    margin: 1vw\r\n}\r\n.text{\r\n    margin:1vw;\r\n    textalign:center;\r\n}"]}
